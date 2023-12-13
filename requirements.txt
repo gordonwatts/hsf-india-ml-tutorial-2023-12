@@ -1,4 +1,4 @@
 jax[cpu]
 jupyterlab
 matplotlib
-jupyterlab-rise
+jupyterlab-deck
