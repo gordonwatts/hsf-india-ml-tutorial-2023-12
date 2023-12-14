@@ -7,3 +7,5 @@ uproot
 xgboost
 scikit-learn
 seaborn
+tensorflow
+distutils
