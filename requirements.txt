@@ -2,3 +2,8 @@ jax[cpu]
 jupyterlab
 matplotlib
 jupyterlab-deck
+pandas
+uproot
+xgboost
+scikit-learn
+seaborn
