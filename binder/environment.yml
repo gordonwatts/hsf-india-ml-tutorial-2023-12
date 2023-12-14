@@ -1,0 +1,54 @@
+name: hsf-india
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - emacs
+  - zstandard
+  - zstd
+  - clang-tools
+  - fsspec
+  - lz4
+  - python-xxhash
+  - root
+  - geant4
+  - cmake
+  - pip:
+      - astunparse
+      - awkward
+      - dask
+      - dask-awkward
+      - distributed
+      - h5py
+      - hepunits
+      - hist
+      - ipympl
+      - jupyterlab-deck
+      - jupyterlab-mathjax3
+      - matplotlib
+      - numba
+      - numexpr
+      - numpy
+      - pandas
+      - particle
+      - protobuf
+      - pyarrow
+      - pybind11
+      - scikit-learn
+      - tables
+      - uproot
+      - vector
+      - mplhep
+      - requests
+      - aiohttp
+      - jax[cpu]
+      - graphviz
+      - dask-labextension==6.2.0
+      - xgboost
+      - scikit-learn
+      - seaborn
+      - tensorflow
+      
+variables:
+  LD_LIBRARY_PATH: "'$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/'"
