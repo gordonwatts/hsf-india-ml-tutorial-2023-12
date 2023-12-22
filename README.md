@@ -1,6 +1,6 @@
 # hsf-india-ml-tutorial-2023-12 (HSF India ML Tutorial 2023-12)
 
-This repository contains materials for a Machine Learning tutorial. It is structured as follows:
+This repository contains materials for a Machine Learning tutorial given at [HSF-India](https://research-software-collaborations.org/). It is structured as follows:
 
 - **Notebooks**: The main content of the tutorial is contained in Jupyter notebooks. These are interactive documents that combine text, equations, and executable code. They are named in the order they should be completed:
   - [`00-intro.ipynb`](command:_github.copilot.openRelativePath?%5B%2200-intro.ipynb%22%5D "00-intro.ipynb"): An introduction to the tutorial, organized as slides.
